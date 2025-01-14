@@ -33,8 +33,8 @@ format:
 
 editor: visual
 
-bibliography: input/bib/icils_nudos.bib
-csl: input/bib/apa.csl
+bibliography: icils_nudos.bib
+csl: apa.csl
 
 comments:
   hypothesis: true
