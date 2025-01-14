@@ -1,0 +1,62 @@
+---
+title: "Assesing Digital Self-efficacy"
+author: Nicolás Tobar
+---
+
+## Thematic research around Self-efficacy
+
+The concept of self-efficacy has become central to studies in social psychology, especially in the case of thematic disciplines such as health, psychotherapy, education, or citizenship. Anecdotally, for example, there is a whole research agenda that has focused on understanding how individuals' levels of self-efficacy with respect to their consumption habits could benefit addiction treatment. Likewise, it has been problematized how students' levels of confidence can strengthen their learning in mathematical matters or the adoption of new languages [@klassenSelfefficacyEducationalSettings2010;@lenzSelfEfficacyNursing2002;@mahyuddinRelationshipStudentsSelf2006].
+
+In recent years, a whole thematic research agenda has opened up around self-efficacy in studies of digital inequalities and opportunities. There are various high-scale studies on these issues that have become relevant to how this concept lands for individuals' use and adoption of technologies in the XXI century. In order to understand this debate, it is necessary to look at the concept of digital competencies.
+
+## Digital Competence and Self-efficacy
+
+At the end of the 20th century, the massification of ICT technologies, as well as the increased use of digital environments in labor and academic environments, turned competence with the internet and ICT relevant for lifelong learning. Then, International organizations, as public policy scholars, then started to discuss how to approach levels of mastery of digital technologies in individuals worldwide.
+
+Digital Literacy was proposed as a first agenda to understand individuals' capabilities with emergent technologies and their applications, principally on educational achievement [@spanteDigitalCompetenceDigital2018]. Initially, the studies dealing with digital literacy focused on technical knowledge of technologies, such as software specifications and operating systems. As soon as the Internet began to become an everyday space in social life, studies on digital literacy began to problematize issues specific to the relationship that occurs between individuals in digital environments, i.e., communication and navigation skills, increasing the dimensions to the fully informational part [@falloonDigitalLiteracyDigital2020].
+
+As the discussion developed, it began to be realized that a question of knowledge or intellect did not mainly determine the development of technological skills, but rather, that it was a multidimensional and heterogeneous problem that brought together issues ranging from the proper use of digital applications to the formation of a 'mindset' or attitudinal dispositions towards technologies that would be beneficial for learning how to relate with them. Self-efficacy would be a domain of this attitudinal aspect of technology adoption and learning. As an alternative to the digital literacy agenda, digital competences began to be discussed [@ulfert-blankAssessingDigitalSelfefficacy2022].
+
+Digital Competence (DigComp) is defined as *“the confident, critical and responsible use of, and engagement with, digital technologies for learning, at work, and for participation in society”*. It encompasses a combination of knowledge, that is, understanding how digital systems may be used, how they function, and how to judge their capabilities or restrictions. Also include skills: *“to use, access, filter, evaluate, create, program, and share digital content”*, as well as to “protect, information, content, and digital identities”, and attitudes, including the reflective and critical handling of these systems. 
+
+A lot of scales operationalize DigComp as a unidimensional concept with different significations. As a standardized alternative, The European Digital Competence Framework for Citizens proposes five domains:
+
+```{r}
+openxlsx::read.xlsx("input/tbl/digcomp_framework.xlsx", fillMergedCells = TRUE)|>
+  knitr::kable()
+```
+
+The current operationalization includes Safety and Problem-solving, which are not regarded in the majority of measures of digital competence. The last one, when is studied, mainly addresses solving technical problems. In contrast, DigComp highlights the skill of utilizing digital systems for solving various problems, not being limited to technical error. In this way, problem-solving also includes the aspect of being aware of one's own competences and detecting competency gaps. Furthermore, competently dealing with risks and safety digital concerns offers an overview of Digital Self-efficacy, which is an important element in explaining the formation of the five digital competence domains. In this way, DigComp emphasizes this variable, which is minimized in the case of digital literacy definitions [@ulfert-blankAssessingDigitalSelfefficacy2022].
+
+## An evolution of the concept
+
+One reason Bandura devoted so much effort and depth to his theory of self-efficacy is that he was aware that in societies with ever-increasing rates of change, it would become increasingly necessary to have individuals capable of constantly acquiring new skills and thus navigating fast and uncertain times with their due capacity to adapt [@banduraSelfefficacyChangingSocieties1995].
+
+Society has changed at an accelerated pace in different aspects up to the present day. One of the most rapidly changing areas today is the development of digital technologies. Year by year the devices, patterns and uses of these technologies are modified, which requires users an unfinished learning process. Given these conditions, self-efficacy has become central than ever to strengthen the ability to adapt to new digital environments. Digital Self-efficacy is an important predictor of learning outcomes with technologies, under/overestimation of competences, knowledge creation and acceptance of technological change (adoption of new ICT’s)[@@ulfert-blankAssessingDigitalSelfefficacy2022].
+
+However, like the DigComp concept, several different approaches have conceptualized self-efficacy in digital environments over the years. The first antecedents of self-efficacy applied to digital issues resorted to *‘Computer self-efficacy’*. @compeauComputerSelfEfficacyDevelopment1995 proposed this early instrument focused on general computer domains and specific software application tasks. Defined as an *individual's perceptions of his or her ability to use computers in the accomplishment of a task* (ie., using a software package for data analysis, writing a mailmerge letter using a word processor), *rather than reflecting simple component skills* (ie., formatting diskettes, booting up a computer, using a specific software feature such as "bolding text" or "changing margin”). The computer self-efficacy construct was criticized and overcome for neglecting the changing dynamics of digital systems, which extender the digital enviroment over computers. The items of these scales tend to become outdated rapidly [@weigelTechnicalProficiencySuccess2014].
+
+While the increasing importance of interconnection with technologies, the focus was on general one’s judgment of confidence regarding different tasks related to internet use. Internet self-efficacy focuses on what a person believes he or she can accomplish online now or in the future. It does not refer to a person's skill at performing specific Internet-related tasks, such as writing HTML, using a browser, or transferring files, for example. Instead, it assesses a person's judgment of their ability to apply Internet skills in a more encompassing mode, such as finding information or troubleshooting search problems. Internet self-efficacy may be distinguished from computer self-efficacy as the belief that one can successfully perform a distinct set of behaviors required to establish, maintain, and utilize effectively the Internet over and above basic personal computer skills [@eastinInternetSelfEfficacyPsychology2000] [^division_selfeff].
+
+[^division_selfeff]: A particularly useful contribution to our work made by this construct is that it was one of the first to differentiate between basic and advanced tasks, as did the paper by @hsuInternetSelfefficacyElectronic2004, which divided a general ISE (GISE) and Web-specific self-efficacy (WSE). The first was oriented to general tasks on internet, while the second on an specific web-site domain.
+
+Although this new construct partially addressed the obsolescence of technologies, the set of digital activities was reduced to a particular domain, as is the case with the Internet. An ICT Self-efficacy scale was proposed to comprise Computer and internet tasks on the same construct. ICT Self-efficacy construct considers digital information processing or communication [@aesaertExploringFactorsRelated2014;@hatlevikStudentsICTSelfefficacy2018] and more advanced skills, such as programming [@rohatgiRoleICTSelfefficacy2016]. Although to its new measures, ICT Self-efficacy usually presents unidimensional concepts or focuses on specific application domains (using ICT for work, school, or leisure) rather than competencies applicably for general life domains [@ulfert-blankAssessingDigitalSelfefficacy2022].
+
+The Current measures presented have common limitations in various ways. *First, they often do not consider more recent frameworks of digital competences*, such as the DigComp, regarding their level of generality, the competences included, and their multidimensionality. The DigComp describes digital competences in terms of general actions (i.e., tasks, functions), such as protecting devices or managing data, that can be applied to a heterogeneous group of individuals and are independent of specific digital systems. Most DSE scales are still system (e.g., specific computer software) or technology-specific (e.g., data storage such as floppy disc) and may thus become outdated. *Second, critical competence areas, such as safety and problem-solving are often disregarded*. Most of the scales focus on the informational, communicative, and creative aspects of the technologies without exhaustively capturing their dimensions of mastery. *Third, the term DSE has been used interchangeably for measuring general competence beliefs* (i.e., including items assessing self-concept, another competence belief) *or actual proficiency*. As a result, this has led to inconsistencies in the representation of the DSE construct in the literature. This is in spite of self-efficacy literature offering clear definitions of how measures should be constructed and its well-defined differentiation from related constructs, such as self-concept [@ulfert-blankAssessingDigitalSelfefficacy2022]
+
+## Standar DSE Scale based on DigComp
+
+@ulfert-blankAssessingDigitalSelfefficacy2022 suggests that to reach a high-level of research on Digital Self-efficacy, scales have to (1) be theoretically-grounded multi-dimensional measures of DSE, encompassing diverse digital competence areas, (2) cover different functions and tasks of digital systems, (3) be independent of a specific digital system (e.g., Word), (4) be also labor or economical, not only educational-oriented.
+
+Then, they propose a scale, which is an actual referent on the Digital Self-efficacy Research Agenda. They follow the approach suggested by @banduraGuideConstructingSelfefficacy2006 to measure self-efficacy. The scale is formulated generically and adapted to each specific dimension. According to the document, the questions use expressions such as *“I am confident that I can...”* or *“I believe I am able to...”*.
+
+These questions are customized to reflect each specific competency or task within the digital self-efficacy dimensions defined in the DigComp framework.
+
+```{r}
+openxlsx::read.xlsx("input/tbl/ulfert_selfeff_scale.xlsx", fillMergedCells = TRUE)|>
+  knitr::kable()
+```
+
+Responses are obtained on a 6-point Likert scale ranging from “strongly disagree” to “strongly agree”.
+
+## References {.unnumbered}

@@ -18,8 +18,9 @@ book:
     - 06_ilsa.qmd
     - 07_icils_timss_pisa.qmd
     - 08_hits_misses.qmd
-    - 09_digital_selfeff_divide.qmd
-    - 10_next_agenda.qmd
+    - 09_digital_divide_framework.qmd
+    - 10_digital_selfeff_divide.qmd
+    - 11_next_agenda.qmd
   search: true
   repo-url: https://github.com/milenio-nudos/self_efficacy_agenda
 
@@ -29,7 +30,7 @@ format:
     theme: cosmo
     toc: true
     toc-depth: 2
-    bibliography: icils_nudos.bib
+    echo: false
 
 editor: visual
 
