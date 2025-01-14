@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: _docs
+
+book:
+  output-file: "self_eff_agenda"
+  title: "Digital Self-efficacy. A Research Agenda with an International Large-Scale Assessment Insight"
+  subtitle: "NUDOS Social line work document"
+  abstract: "..."
+  author: "Ismael Aguayo, Nicolás Tobar & Tomás Urzúa"
+  date: today
+  chapters:
+    - index.qmd
+    - 02_agentic_perspective.qmd
+    - 03_selfeff_def.qmd
+    - 04_construct_scales.qmd
+    - 05_digital_selfeff.qmd
+    - 06_ilsa.qmd
+    - 07_icils_timss_pisa.qmd
+    - 08_hits_misses.qmd
+    - 09_digital_selfeff_divide.qmd
+    - 10_next_agenda.qmd
+  search: true
+  repo-url: https://github.com/milenio-nudos/self_efficacy_agenda
+
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    bibliography: icils_nudos.bib
+
+editor: visual
+
+bibliography: input/bib/icils_nudos.bib
+csl: input/bib/apa.csl
+
+comments:
+  hypothesis: true

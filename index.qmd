@@ -1,0 +1,25 @@
+---
+author: Nicolás Tobar
+toc: false
+---
+
+# Introduction {.unnumbered}
+
+The Self-Efficacy agenda in digital environments has become increasingly relevant to the changing contemporary world. High levels of self-efficacy enable young people to increase their ability to adapt to new technological environments, facilitating their learning for life in the long term. The concept has even been coined as a second-order digital divide.
+
+The research on digital self-efficacy has been extensively investigated, and a large volume of information and data is available. This agenda deploys international studies in the educational field that allow approximations at the country and school level to study the issue.
+
+Although these large-scale international studies have been disseminated and analyzed in countless articles and academic journals, they are generally studied around the problematization of the digital competence or literacy variable, leaving digital self-efficacy in the background. Likewise, most efforts do not tend to stop to compare how all these studies approach the phenomenon of digital self-efficacy in a differentiated manner.
+
+The NUDOS social line has the opportunity to open an agenda around digital self-efficacy in educational contexts with an international orientation. This could be beneficial both for increasing understanding of the levels of autonomy in young school children around the world and for amplifying the pace of publications and visibility of the project.
+
+However, to open this agenda, it is first necessary to dive with due dedication into the concept of self-efficacy, how it lands in digital studies, and then how it is taken up by large-scale international educational studies. This paper aims to formalize a research agenda for digital self-efficacy in ILSA studies that will serve as a constant reference for research in the social line of NUDOS.
+
+Four specific objectives are proposed:
+
+1.    Understand Bandura’s theoretical definitions of self-efficacy, as well as its limitations and empirical suggestions.
+2.   Dissecting how the concept of self-efficacy was integrated into digital competences discussions.
+3.    Compare how international large-scale educational studies have approached to digital self-efficacy.
+4.    Accumulate evidence on how the digital divide is expressed on levels of digital self-efficacy.
+
+The manuscript is divided into nine chapters. The first chapter presents the theoretical background of Social Cognitive Theory, explaining how Self-efficacy is part of a deep effort to understand human agency. The second chapter exposes Bandura’s definition of self-efficacy and the concept's relevance and analytical classifications. The third chapter takes Bandura's empirical suggestions to measure self-efficacy and then revises the critiques and limitations of his proposal. The fourth chapter describes the relationship between digital competence and digital self-efficacy, detailing how this last one has been studied and theorized. The fifth chapter analyzes how Large Scale Assessment studies have included self-efficacy as a variable of analysis. The sixth chapter compares three specific Large-scale Scale Assessment studies' approaches to digital self-efficacy—the seventh chapter focuses on discussing their measures and definitions. The eighth chapter explores empirical evidence on how the different levels of the digital divide are expressed in digital Self-efficacy. Finally, the Ninth chapter concludes with methodological suggestions for future research.
