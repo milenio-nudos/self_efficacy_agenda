@@ -5,7 +5,7 @@ author: "Ismael Aguayo"
 
 ## Digital divide framework
 
-In this section, the ideas of @Lythreatesetal.2022 related to the concept of digital divide will be summarized. This is relevant to address since it provides us with a conceptual framework and bibliography to understand the digital inequalities, potentially addressed in this agenda.
+In this section, the ideas of @lythreatisDigitalDivideReview2022 related to the concept of digital divide will be summarized. This is relevant to address since it provides us with a conceptual framework and bibliography to understand the digital inequalities, potentially addressed in this agenda. This chapter may potentially be expanded to include a more extensive historical overview of the concept, as well as the various approaches, criticisms, and proposals related to it.
 
 The concept of the digital divide, coined by scholars during the 1990s, refers to the various gaps in access, usage, and outcomes associated with Information and Communication Technologies (ICT). The digital divide has gained increasing prominence due to the rise of the digital economy; the concept has been embraced by numerous organizations and public policy institutions. For instance, the United Nations places significant emphasis on ICT as a means to achieve its Sustainable Development Goals (SDGs) and combat social inequalities. The significance of the concept lies not only in its impact on individuals' relationships with the digital world but also in its implications for social mobility, given the pervasive integration of ICT into both the labor market and educational systems. Three levels or grades of the digital divide have been proposed, each with its specific characteristics and context.
 
