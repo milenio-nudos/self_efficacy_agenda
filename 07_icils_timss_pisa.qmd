@@ -59,7 +59,7 @@ Despite the lack of theoretical depth regarding digital self-efficacy, one of th
 library(kableExtra)
 library(openxlsx)
 
-table <- openxlsx::read.xlsx("self-eff_comparison_bateries.xlsx", fillMergedCells = TRUE)
+table <- openxlsx::read.xlsx("input/tbl/self-eff_comparison_bateries.xlsx", fillMergedCells = TRUE)
 table[is.na(table)] <- ""
 
 table |>
