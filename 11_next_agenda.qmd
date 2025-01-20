@@ -7,7 +7,7 @@ As a concluding chapter, it is essential to project methodologies and knowledge 
 
 ## Limits on Self-efficacy conceptualization: aplications and measurements on ILSA's
 
-As reviewed, ILSA studies set out to measure self-efficacy in a variety of ways, and with very different approaches. In some, the digital problem is central, in others it is marginal, and the scale construction strategies are very different. 
+As reviewed, ILSA studies set out to measure self-efficacy in a variety of ways, and with very different approaches. In some, the digital problem is central, in others it is marginal, and the scale construction strategies are very different.
 
 Despite these contrasts, no work was found that attempted to make a comparative exercise between the approaches to digital self-efficacy of the three ILSAs that were brought into the discussion. A good opportunity to advance the research agenda would be a comparative review of ICILS, PISA and TIMSS around the measurement of the concept of digital self-efficacy.
 
@@ -28,5 +28,9 @@ The paper by @campos_digital_2024 may serve as an excellent roadmap for research
 The relationship between various socioeconomic, sociodemographic, and subjective variables and technology-related self-efficacy has been studied. However, there is still a need to examine diverse relationships and profiles of technology users who, to this day, are being left behind in the face of the burgeoning technological revolution. One of the most notable gaps is the lack of studies considering migration background or ethnicity as an independent variable. In other fields of study, this has been addressed; for example, a study conducted in Chile found a positive relationship between students' migrant status and their general self-efficacy [@cespedes_relationship_2021]. It is crucial to examine this relationship in the context of digital self-efficacy, as digital competencies have become vital for adapting to a new country and achieving economic advancement.
 
 Similarly, there is a noticeable lack of studies that delve into explaining differences in ICT self-efficacy across the various countries that have participated in ILSAs. Although articles such as @campos_digital_2024 incorporate indices like the Human Development Index and the ICT Use Index, they do not use digital self-efficacy as the dependent variable, and analyzing the role of the country in the development of a particular technological self-efficacy is far from being their primary objective. This issue is particularly relevant when addressing the digital divide in its broadest dimension: the global one.
+
+## Closure
+
+It is hoped that the work carried out in this document will serve, in the first place, as a systematization of the information related to digital self-efficacy, both in its background and theoretical foundations and in the way it is measured in the different ILSAs, in order to facilitate access to this knowledge for NUDO members. In addition, this working paper can serve as a basis for future research projects on digital issues, such as the creation of academic articles, methodological proposals and even new guidelines. 
 
 ## References {.unnumbered}
