@@ -34,9 +34,14 @@ format:
     warning: false
 
 editor: visual
+bibliography: 
+  - ./input/bib/icils_nudos.bib
+  - ./input/bib/ilsa_part.bib
+  - ./input/bib/pisa_study.bib
+  - ./input/bib/school_effect.bib
+  - ./input/bib/self_efficacy_theory.bib
 
-bibliography: icils_nudos.bib
-csl: apa.csl
+csl: ./input/bib/apa6.csl
 
 comments:
   hypothesis: true
