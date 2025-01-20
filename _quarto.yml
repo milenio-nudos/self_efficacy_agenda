@@ -35,13 +35,20 @@ format:
 
 editor: visual
 bibliography: 
+<<<<<<< Updated upstream
   - ./input/bib/icils_nudos.bib
+=======
+>>>>>>> Stashed changes
   - ./input/bib/ilsa_part.bib
   - ./input/bib/pisa_study.bib
   - ./input/bib/school_effect.bib
   - ./input/bib/self_efficacy_theory.bib
 
+<<<<<<< Updated upstream
 csl: ./input/bib/apa6.csl
+=======
+csl: input/bib/apa6.csl
+>>>>>>> Stashed changes
 
 comments:
   hypothesis: true
