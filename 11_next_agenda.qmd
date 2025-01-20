@@ -1,10 +1,16 @@
-As a concluding chapter, it is essential to project methodologies and knowledge gaps that directly influence the DSE agenda of NUDOS. In the first subsection, the measurement and application of Bandura's self-efficacy concept in research are critically examined. Next, the main methodologies used in the reviewed studies are analyzed, with a particular focus on multilevel studies incorporating country-level data and International Large-Scale Assessments (ILSA). Finally, the chapter addresses the knowledge gaps surrounding the determinants of DSE.
+---
+title: "Next ideas for the research agenda"
+authors: Ismael Aguayo
+---
 
-## Bandura's Self-efficacy concept: aplications and measurements
+As a concluding chapter, it is essential to project methodologies and knowledge gaps that directly influence the DSE agenda of NUDOS. In the first subsection, the limits on measurement and application of Bandura's self-efficacy concept in research are critically examined. Next, the main methodologies used in the reviewed studies are analyzed, with a particular focus on multilevel studies incorporating country-level data and International Large-Scale Assessments (ILSA). Finally, the chapter addresses the knowledge gaps surrounding the determinants of DSE.
+
+## Limits on Self-efficacy conceptualization: aplications and measurements
+
 
 ## Methods studying Digital Self-Efficacy differences
 
-Throughout the literature review, a multitude of methodological tools have been identified as useful for the DSE agenda of NUDOS. The vast majority of the studies reviewed involve multilevel models and, at times, structural equation modeling, due to the availability of school-level data in ILSAs and the effort to explore mediators of relationships already demonstrated in the literature. Additionally, periodic meta-analyses that synthesize findings from previous research are evident.
+Throughout the literature review, a multitude of methodological tools have been identified as useful for the DSE agenda of NUDOS. The vast umajority of the studies reviewed involve multilevel models and, at times, structural equation modeling, due to the availability of school-level data in ILSAs and the effort to explore mediators of relationships already demonstrated in the literature. Additionally, periodic meta-analyses that synthesize findings from previous research are evident.
 
 The study by @hatlevikStudentsICTSelfefficacy2018a, the most relevant one with ICT self-efficacy as the dependent variable, conducts a path analysis, a multivariate model that allows the inclusion of multiple independent and dependent variables simultaneously. It seeks to identify the main determinants of ICT self-efficacy and, additionally, the relationship between digital literacy and digital self-efficacy, using ICILS 2013 data. The analysis included 14 countries. For the reporting of results, the range of effects across all countries was mentioned, with occasional emphasis on outlier cases.
 
@@ -17,3 +23,5 @@ The paper by @camposDigitalGenderGaps2024 may serve as an excellent roadmap for 
 The relationship between various socioeconomic, sociodemographic, and subjective variables and technology-related self-efficacy has been studied. However, there is still a need to examine diverse relationships and profiles of technology users who, to this day, are being left behind in the face of the burgeoning technological revolution. One of the most notable gaps is the lack of studies considering migration background or ethnicity as an independent variable. In other fields of study, this has been addressed; for example, a study conducted in Chile found a positive relationship between students’ migrant status and their general self-efficacy [@cespedesRelationshipSelfConceptSelfEfficacy2021]. It is crucial to examine this relationship in the context of digital self-efficacy, as digital competencies have become vital for adapting to a new country and achieving economic advancement.
 
 Similarly, there is a noticeable lack of studies that delve into explaining differences in ICT self-efficacy across the various countries that have participated in ILSAs. Although articles such as @camposDigitalGenderGaps2024 incorporate indices like the Human Development Index and the ICT Use Index, they do not use digital self-efficacy as the dependent variable, and analyzing the role of the country in the development of a particular technological self-efficacy is far from being their primary objective. This issue is particularly relevant when addressing the digital divide in its broadest dimension: the global one.
+
+## References {.unnumbered}
