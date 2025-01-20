@@ -31,6 +31,7 @@ format:
     toc: true
     toc-depth: 2
     echo: false
+    warning: false
 
 editor: visual
 
