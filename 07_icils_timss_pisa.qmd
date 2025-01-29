@@ -5,13 +5,13 @@ author: "Tomás Urzúa"
 
 ## About ICILS, TIMSS and PISA
 
-Within ILSAs, there are two major organizations that have promoted this type of study: the IEA and the OECD. On the one hand, the IEA is the association in charge of leading and conducting two of the most important large-scale assessment studies: International Computer and Information Literacy Study [^07_icils_timss_pisa-1] and Trends in International Mathematics and Science Study [^07_icils_timss_pisa-2]. On the other hand, the OECD is the orchestrator of the Programme for International Student Assessment [^07_icils_timss_pisa-3], one of the leading ILSAs in the world. These three studies share the same target population in that they focus on adolescents, specifically young people between the ages of 13 and 15. More importantly, all of the aforementioned studies contain a digital self-efficacy battery, so the following paragraphs will seek to describe at a general level each of the ILSAs, and then to show how they address digital self-efficacy in their evaluative frameworks. Subsequently, a comparative analysis will be made between the digital self-efficacy batteries between cycles of the same study, as well as between different studies, to finally propose a discussion on the successes and failures in the different measurements that have been proposed regarding digital self-efficacy.
+Within ILSAs, there are two major organizations that have promoted this type of study: the IEA and the OECD. On the one hand, the IEA is the association in charge of leading and conducting two of the most important large-scale assessment studies: International Computer and Information Literacy Study [^1] and Trends in International Mathematics and Science Study [^2]. On the other hand, the OECD is the orchestrator of the Programme for International Student Assessment [^3], one of the leading ILSAs in the world. These three studies share the same target population in that they focus on adolescents, specifically young people between the ages of 13 and 15. More importantly, all of the aforementioned studies contain a digital self-efficacy battery, so the following paragraphs will seek to describe at a general level each of the ILSAs, and then to show how they address digital self-efficacy in their evaluative frameworks. Subsequently, a comparative analysis will be made between the digital self-efficacy batteries between cycles of the same study, as well as between different studies, to finally propose a discussion on the successes and failures in the different measurements that have been proposed regarding digital self-efficacy.
 
-[^07_icils_timss_pisa-1]: Hereinafter, ICILS
+[^1]: Hereinafter, ICILS
 
-[^07_icils_timss_pisa-2]: Hereinafter, TIMSS
+[^2]: Hereinafter, TIMSS
 
-[^07_icils_timss_pisa-3]: Hereinafter, PISA
+[^3]: Hereinafter, PISA
 
 ICILS is a study on digital literacy, which seeks to answer the question: How well are students prepared to study, work and live in a digital world? To this end, the study measures achievement in computer and information literacy (CIL), a concept defined as “an individual's ability to use computers to investigate, create, and communicate in order to participate effectively at home, at school, in the workplace, and in society” [@julianfraillon_iea_2013, p. 17]. It is worth mentioning that this concept is operationalized by ICILS in order to measure digital literacy. The study deploys a complex sample design involving multistage, stratified and cluster sampling techniques [see p.59, @julianfraillon_sample_2020].
 
