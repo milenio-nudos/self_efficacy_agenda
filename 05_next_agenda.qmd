@@ -1,6 +1,5 @@
 ---
 title: "Next ideas for the research agenda"
-authors: Ismael Aguayo, Nicolás Tobar y Tomás Urzúa
 ---
 
 As a concluding chapter, it is essential to project methodologies and knowledge gaps that directly influence the DSE agenda of NUDOS. In the first subsection, the limits on measurement and application of self-efficacy in ILSA are critically examined. Next, the main methodologies used in the reviewed studies are analyzed, with a particular focus on multilevel studies incorporating country-level data and International Large-Scale Assessments (ILSA). Finally, the chapter addresses the knowledge gaps surrounding the determinants of DSE.
@@ -31,6 +30,6 @@ Similarly, there is a noticeable lack of studies that delve into explaining diff
 
 ## Closure
 
-It is hoped that the work carried out in this document will serve, in the first place, as a systematization of the information related to digital self-efficacy, both in its background and theoretical foundations and in the way it is measured in the different ILSAs, in order to facilitate access to this knowledge for NUDO members. In addition, this working paper can serve as a basis for future research projects on digital issues, such as the creation of academic articles, methodological proposals and even new guidelines. 
+It is hoped that the work carried out in this document will serve, in the first place, as a systematization of the information related to digital self-efficacy, both in its background and theoretical foundations and in the way it is measured in the different ILSAs, in order to facilitate access to this knowledge for NUDO members. In addition, this working paper can serve as a basis for future research projects on digital issues, such as the creation of academic articles, methodological proposals and even new guidelines.
 
 ## References {.unnumbered}

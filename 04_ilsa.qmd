@@ -1,17 +1,48 @@
 ---
-title: "ICILS, TIMSS and PISA. Three opportunities to approach Digital Self-efficacy"
-author: "Tomás Urzúa"
+title: "International Large-Scale Asessments and Digital Issues"
 ---
 
-## About ICILS, TIMSS and PISA
+## Why to work with International Large-Scale Assesments?
 
-Within ILSAs, there are two major organizations that have promoted this type of study: the IEA and the OECD. On the one hand, the IEA is the association in charge of leading and conducting two of the most important large-scale assessment studies: International Computer and Information Literacy Study [^1] and Trends in International Mathematics and Science Study [^2]. On the other hand, the OECD is the orchestrator of the Programme for International Student Assessment [^3], one of the leading ILSAs in the world. These three studies share the same target population in that they focus on adolescents, specifically young people between the ages of 13 and 15. More importantly, all of the aforementioned studies contain a digital self-efficacy battery, so the following paragraphs will seek to describe at a general level each of the ILSAs, and then to show how they address digital self-efficacy in their evaluative frameworks. Subsequently, a comparative analysis will be made between the digital self-efficacy batteries between cycles of the same study, as well as between different studies, to finally propose a discussion on the successes and failures in the different measurements that have been proposed regarding digital self-efficacy.
+The digital self-efficacy agenda that has opened up with the discussions presented before have been measured with different approaches. On the one hand, it has diversified into case studies or small-scale comparative research. On the other hand, there are antecedents that deal with the problem from experiments and qualitative techniques. However, the largest dossier on this agenda is found in large-scale educational issues studies with a survey approach.
 
-[^1]: Hereinafter, ICILS
+In recent years, International Large-scale Assessments[^06_ilsa-1] have become one of the most relevant types of studies in the field of education, thanks to the large amount of data they collect, the versatility in how the data can be treated, and, consequently, the diverse contributions they can provide to the regions.
 
-[^2]: Hereinafter, TIMSS
+[^06_ilsa-1]: Hereinafter, ILSAs
 
-[^3]: Hereinafter, PISA
+The birth of ILSA dates to 1958, when a group of researchers at the UNESCO Institute of Education were very interested in studying educational achievement and its determinants in different countries, intending to enable countries to learn from the experience of others and thus avoid decisions that would produce undesirable results [@husen_international_1979]. This led to the creation of the International Association for the Evaluation of Educational Achievement[^06_ilsa-2]. Since then, the IEA has conducted ILSAs periodically. Likewise, the Organization for Economic Cooperation and Development [^06_ilsa-3] has also been a highly relevant organization in promoting the implementation of this type of study, although its inauguration in this field was only in 2000.
+
+[^06_ilsa-2]: Hereinafter, IEA
+
+[^06_ilsa-3]: Hereinafter, OECD
+
+ILSAs are characterized by the deployment of their surveys throughout the world, covering various countries and regions. When their results are published, they are usually illustrated in a ranking format, which opens the way to comparisons between the educational systems that were part of such studies. Therefore, the ILSAs are seriously considered in the field of both research and public policy, since those countries that did not obtain good results look at those that scored higher to develop strategies to improve the country in the relevant area. However, there are criticisms in relation to the above, because there could be situations in which a government decides to implement a policy identically inspired by another country, without considering the particularities of its region, which would lead to a probable failure of the project [@johansson_international_2016].
+
+On the other hand, ILSAs are usually framed around specific themes, but considering the effects that contextual factors at the country, school, classroom and student level may have on achievement. For this reason, the questionnaires are not only directed at students, but there may also be some that seek to gather information from the school, teachers or family of the main respondents. Because of this, ILSA data are rich in terms of the uses and treatments that can be given to them. From the data structure, statistical analysis techniques of some complexity such as multilevel models or structural equation models, to name a few, could be employed.
+
+## ILSAs and Digital Issues
+
+In recent years, Information and Communication Technologies[^06_ilsa-4] have become vitally relevant to life in society as they are increasingly present in all spheres of existence, due to the dizzying pace of technological development. In this context, a number of questions have arisen as to how young people relate to technology, and whether they are really prepared to cope in an increasingly digitized world.
+
+[^06_ilsa-4]: Hereinafter, ICTs
+
+In this context, the use of new technologies in education is a topic in vogue, due to the potential benefits that their implementation could bring in this area, such as learning flexibility, the creation of new learning and interaction environments, and the transformation of the traditional training scenario, among many others [@caberoalmenara_alfabetizacion_2008]. However, if these technologies are not democratized in terms of access and knowledge for proper use, societies could be more vulnerable to fragmentation in the digital environment [@trucco_nuevas_2010].
+
+Thus, digital competence is seen as a common objective on the horizon by a vast number of countries, which is reflected in the numerous initiatives that have emerged, especially since the beginning of the new millennium, to promote this type of literacy among citizens. Milestones such as the World Summit on the Information Society held in 2003 and 2005, or the i2010 plan carried out by the European Union, have set the tone for joint efforts among countries to promote advances in societies in terms of technology, seeking to promote access to it and the knowledge necessary for citizens to take advantage of its benefits [@echeverriaezponda_tic_2010].
+
+This growing relevance of digital competence in society has caused that in recent years the digital issue has become an important part of the ILSA agenda, including questions of this type in their questionnaires, in order to elucidate the conditions in which young people find themselves with respect to their knowledge and skills in digital technologies. In this context, the attitudes and dispositions that young people have towards ICTs have become very important, highlighting self-efficacy in this area.
+
+It becomes necessary to understand the current context in relation to emerging technologies and the skills to benefit from them. At a general level, the ILSAs have established a prioritization of this, which is highly valuable, since, thanks to the global scope of these studies, a panorama could be visualized at both national and international levels, which would consequently lead to the planning of strategies aimed at addressing the weakest points identified thanks to the ILSAs.
+
+## ICILS, TIMSS and PISA
+
+Within ILSAs, there are two major organizations that have promoted this type of study: the IEA and the OECD. On the one hand, the IEA is the association in charge of leading and conducting two of the most important large-scale assessment studies: International Computer and Information Literacy Study [^07_icils_timss_pisa-1] and Trends in International Mathematics and Science Study [^07_icils_timss_pisa-2]. On the other hand, the OECD is the orchestrator of the Programme for International Student Assessment [^07_icils_timss_pisa-3], one of the leading ILSAs in the world. These three studies share the same target population in that they focus on adolescents, specifically young people between the ages of 13 and 15. More importantly, all of the aforementioned studies contain a digital self-efficacy battery, so the following paragraphs will seek to describe at a general level each of the ILSAs, and then to show how they address digital self-efficacy in their evaluative frameworks. Subsequently, a comparative analysis will be made between the digital self-efficacy batteries between cycles of the same study, as well as between different studies, to finally propose a discussion on the successes and failures in the different measurements that have been proposed regarding digital self-efficacy.
+
+[^07_icils_timss_pisa-1]: Hereinafter, ICILS
+
+[^07_icils_timss_pisa-2]: Hereinafter, TIMSS
+
+[^07_icils_timss_pisa-3]: Hereinafter, PISA
 
 ICILS is a study on digital literacy, which seeks to answer the question: How well are students prepared to study, work and live in a digital world? To this end, the study measures achievement in computer and information literacy (CIL), a concept defined as “an individual's ability to use computers to investigate, create, and communicate in order to participate effectively at home, at school, in the workplace, and in society” [@julianfraillon_iea_2013, p. 17]. It is worth mentioning that this concept is operationalized by ICILS in order to measure digital literacy. The study deploys a complex sample design involving multistage, stratified and cluster sampling techniques [see p.59, @julianfraillon_sample_2020].
 
@@ -35,7 +66,7 @@ Each study has extensive documentation that is open access, which can be found o
 
 Similarly, it is extremely important to clarify that both TIMMS and PISA use characterization questionnaires as the only resource to address digital issues, which, ultimately, does not allow measuring the competencies or skills of respondents. Not so ICILS, which, in addition to covering characterization elements, deploys a standardized performance assessment test, which has the objective that digital literacy can be measured in a concrete way.
 
-## How this studies adress Digital self-efficacy?
+### How this studies adress Digital self-efficacy?
 
 ICILS, being focused on digital issues, does not have a specific section of the document dealing with it, but the document is framed in this topic. However, the evaluation framework of this study contains a chapter focused on contextual determinants, which is subdivided into the types of context that influence computer and information literacy, such as home context, school context, and individual context. The latter includes attitudinal and behavioral factors. Self-efficacy is placed in this framework.
 
@@ -53,7 +84,7 @@ The TIMMS cycle conducted in 2019 conceptualizes self-efficacy as “Student con
 
 Despite the lack of theoretical depth regarding digital self-efficacy, one of the most interesting features of TIMMS is that in addition to containing the digital self-efficacy battery, it has self-efficacy batteries for mathematics and science, which could open certain lines of research regarding this specific topic.
 
-## Measures of digital self-efficacy
+### Measures of digital self-efficacy
 
 ```{r}
 library(kableExtra)
@@ -88,5 +119,31 @@ Between ICILS, PISA and TIMSS, major differences can be noted in terms of the ch
 The greatest differences are found in the items that make up the digital self-efficacy batteries. Each study has undergone transformations in the items that make up the batteries, some including a greater number of statements, or adding tasks of greater complexity and omitting aspects that were measured in their respective previous cycles.
 
 This section conducted a comparative analysis of the construction of the digital self-efficacy batteries, observing the items that constitute such batteries in the different cycles of the different studies, as well as the differences presented intra-cycle and intra-study. The next section seeks to deepen the analysis of how self-efficacy in digital issues has been measured in the studies presented in the document, through an evaluation based on the conceptual framework provided by Bandura, which was presented in the first part of this working paper.
+
+### A comparison of operazionalization strategies
+
+As can be read, these three ILSA studies have different theoretical approaches to Digital Self-efficacy. Because of their limitations, one of them will likely focus on some dimensions of the concept of self-efficacy and another on other elements. The following section is a comparative analysis of the orientations and definitions of each study in relation to the conceptual discussions of Self-efficacy.
+
+ICILS presents a task orientation on self-efficacy concept in both cycles it presents. The questions ask if students can or cannot do concrete activities with technologies, leaving out self-regulatory elements of the concept. In the items there's not query on levels of confidence or comfortability in the doing-task process. In that sense, ICILS focus on the magnitude of task achievement over strength. The concern is around the grades or levels of masterization on digital devices handling in isolation. This same approach explains why is the unique ILSA which divides a priori the Self-efficacy batteries in two: the first for a minus level of complexity in the masterization and the second for a more advance state of that process.
+
+Both batteries of this study in 2013 and 2018 cycles are named as 'ICT Self-efficacy', which is consistent with the development of the debate on digital Self-efficacy [@ulfert-blank_assessing_2022]. 2010's were the epoche were Computer and Internet Self-efficacy were synthetized with ICT self-efficacy. It is noticeable that ICILS' scales not only measure technical or informative tasks (as do the Computer self-efficacy approach), such as application development or file manipulation, but also others of evaluative nature and digital content creation. Likewise, it's important to note that the scale is computer-device oriented, most of the tasks listed cannot be done in smartphones or other digital systems less powerful to process information.
+
+ICILS's statement again demonstrates its focus on digital literacy over a comprehensive understanding of digital competences. The question looks at "How well" the task is done, seeking to orient the concept to a sense of neatness or perfection of accomplishment, over levels of confidence in the process. Regarding the phrasing of the responses, ICILS has a battery consistent with the recommendations of the specialized literature on self-efficacy measurements [@bandura_guide_2006; @pajares_chapter_2002; @williams_confounded_2016], in that it avoids can-do statements, and opts for a strategy that divides individuals who declare they know from those who declare they do not know but believe they could learn, as well as those who declare they are unable to do so. However, the relatively categorical nature with which the battery responses are composed tends to limit the analysis of individuals' nuances and degrees of self-efficacy, and also have the problem of asking about future capabilities and no actual ones [@bandura_guide_2006].
+
+PISA presents an inconsistent approach to measuring self-efficacy. In the 2018 version, both the statement and the items refer to the self-regulatory dimension of the concept, specifically with coping self-efficacy. The statement puts the individual in a context when asking for his or her own experience with digital devices. Then, some items ask explicitly for levels of comfort and others encourage the individuals to think about their own interpersonal relations (friends, family, etc.) before they judge their own level of self-efficacy. 2023 version makes a qualitative leap. The scale opts for a battery more similar to ICILS approach, where the statement assumes individual isolation, and the items identify concrete digitally mediated tasks to be solved.
+
+Although PISA does not add to its documentation a specific terminology to refer to digital self-efficacy, it is clear that in 2018 they presented a rather fuzzy concept approaching self-efficacy for the general use of digital devices, which does not specify specific tasks applicable in different systems. In that sense, it is difficult to encapsulate this proposal within the debate identified by @ulfert-blank_assessing_2022. In the case of 2022, the items presented are in tune with the most recent Digital self-efficacy concept, as identify not only digital literacy aspects but digital creation, security and problem-solving too, independently of digital systems. If the analysis enters in details, even if the approach connect with actual standards and suggestions to measure the concept, in any case does not take into account the complexity of security and problem-solving dimensions, leaving only one minimal item for both competences.
+
+With respect to the response wording, PISA proposals let researchers delve into numerical levels of self-efficacy, as they present more than three alternatives, with a clearly ordinal disposition. In both cycles, the responses determine grades of agreement in the achievement of the tasks deployed using the strategy suggested by @bandura_guide_2006 and @williams_confounded_2016 of not dichotomizing between being able or not being able to do the task, but rather establishing levels of security to be able to achieve it. Altough, in 2018 the categories have an bipolar scale which is not aligned with @bandura_guide_2006 standard of unipolar scales recommendations.
+
+TIMMS declares explicitly the adoption of the 'Digital Self-efficacy' terminology, but this does not guarantee that it complies with the multidimensional and heterogeneous standards @ulfert-blank_assessing_2022 suggests. The 2019 cycle have a very basic and minimalistic approach to digital efficacy expectancy. The tasks measured are excessively general and simple, as 'use a touchscreen' or 'edit on a computer'. Although the items phrasing shows that the scale has a good balance between task and self-regulatory approach to self-efficacy, results to be are so abstract that they lose their specificity. The 2023 cycle presents major levels of complexity, but ignores tasks out of informational, evaluative, or creative skills with technologies, such as problem-solving or security. The battery is short and does not allow for a deeper dive into the concept of digital self-efficacy as discussed by @ulfert-blank_assessing_2022.
+
+As PISA, TIMMS in both cycles subscribe to a bipolar level of agreement on task achievement strategy which is not aligned with @bandura_guide_2006 assessments. The measure let identify grades of Self-efficacy, but not distinguishing whether individual can/cannot achievement or not (For this, a scale from 0 to a maxium level have to be used).
+
+In summary, it can be pointed out that ICILS emphasizes to a greater extent the ICT operational and technical aspects of the technologies, proposing two measures that linearly increase the degrees of complexity of the tasks, and excluding the attitudinal aspect in this process. While PISA details to a greater extent the mechanisms of self-regulation that accompany the concept of self-efficacy and Digital Competence, although it presents inconsistencies between its cycles. And finally, TIMMS has a minimalist strategy that does not give enough emphasis to digital self-efficacy to deepen the debates surrounding the concept.
+
+### Suggestions from Team NUDOS
+
+Una vez que discutamos en profundidad estos resultados, sería pertinente armar una propuesta o sugerencias para los tres estudios ILSA que vaya acorde a sus enfoques... (Este trabajo queda en pendiente pues requiere de juntarnos y acumular ideas en conjunto).
 
 ## References {.unnumbered}
